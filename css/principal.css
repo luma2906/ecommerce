@@ -1,0 +1,167 @@
+#linea{
+	background-color: #784956;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+#linea2{
+	background-color: #D8D8D8;
+	width: 100%;
+	padding-bottom: 5px;
+
+}
+#envios{
+	color:#784956;
+}
+a{
+	text-decoration: none;
+	color:#848484;
+	font-size: 10px;
+}
+ul{
+	list-style: none;
+	text-align: right;
+	padding-right: 30px;
+}
+ul li{
+	display: inline-block;
+}
+header{
+	background-color: white;
+	width: 100%;
+	
+	margin-top: -20px;
+	padding: 10px;
+	 border-bottom: 2px solid #BDBDBD;
+}
+#formulario{
+	padding-top: 20px;
+}
+#titulo{
+	font-size: 30px;
+	font-weight: bold;
+}
+#menu{
+	text-align: center;
+	float: left;
+	font-weight: bold;
+	padding-top: 10px;
+	
+
+}
+#menu ul li a{
+	font-size: 11px !important;
+	padding: 15px;
+	color: black;
+}
+ul li a:hover{
+	text-decoration: none;
+}
+.jgallery-container{
+	background-color: white !important;
+}
+#boton{
+	background-color: #784956;
+}
+#precio{
+	color:#784956;
+}
+#codigo{
+	color: grey;
+	font-size: 10px;
+}
+#tallas{
+	  display: flex;
+	  flex-wrap: wrap;
+	  text-align: center;
+
+}
+#tallas > div{
+	background-color: grey;
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+
+
+}
+#GuiasTalla{
+	padding: 50px;
+
+}
+
+#detalles{
+	font-size: 13px;
+	color:grey;
+	padding: 50px;
+}
+#tecnologias{
+	font-size: 13px;
+	color:grey;
+	padding: 50px;
+}
+#completaLook{
+	background-color: #D8D8D8;
+	width: 95%;
+	height: 30px;
+	margin: auto;
+}
+.centrarbtn{
+	margin: auto;
+}
+#completar{
+	padding: 20px;
+}
+#recomendados{
+	padding: 30px;
+}
+#completar2{
+	padding:20px;
+}
+.card{
+	text-align: center !important;
+	border: none !important;
+}
+#slider1{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#slider2{
+	display: flex;
+	flex-wrap: wrap;
+}
+#slider2{
+	padding: 30px;
+}
+#precioslider3{
+	color:#784956;
+}
+#info{
+	background-color: #e6e5e1;
+	height: 130px;
+	width: 100%;
+	text-align: center;
+	color: grey;
+	padding-top: 30px;
+}
+#footerInfo{
+	width: 100%;
+	height: 300px;
+	background-color: white;
+	padding: 30px;
+	display: flex;
+	flex-wrap: wrap;
+}
+#footerInfo >div{
+	margin: 30px;
+}
+
+ol li{
+	list-style: none;
+}
+#detalleslaider{
+	padding: 50px;
+}
+
